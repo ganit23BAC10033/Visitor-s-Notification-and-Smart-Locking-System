@@ -73,7 +73,32 @@ This project solves that problem by:
 
 ---
 
-## 📂 Project Structure
+## 📐 Circuit Diagram
+![circuit diagram](https://github.com/user-attachments/assets/8ca0c349-2009-4edb-8453-ea868a776727)
+
+## 📸 Proof of Working
+
+![image1](https://github.com/user-attachments/assets/baa0dbc8-7d72-42c5-956c-0c6e4ce69477)
+
+<br>
+
+![image2](https://github.com/user-attachments/assets/57bb4d84-2e7c-4b5e-9f16-dc19d8221a1e)
+
+<br>
+
+![image3](https://github.com/user-attachments/assets/95cf0e96-265f-4179-9451-72da94f1c95b)
+
+<br>
+
+![image4](https://github.com/user-attachments/assets/feeb3eb4-513e-4447-9ec6-5a8379145ed2)
+
+<br>
+
+![image5](https://github.com/user-attachments/assets/28befe50-2119-491d-bc99-2d2ebe47f8f6)
+
+
+## 🎥 Demo Video
+
 
 ## ✅ Results
 
