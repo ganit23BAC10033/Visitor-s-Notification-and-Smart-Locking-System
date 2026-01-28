@@ -8,11 +8,11 @@
 #include <ArduinoJson.h>
 
  
-const char* ssid = "GANITYADAV 7958";   
-const char* password = "hotspot123";   
+const char* ssid = "Wifi Name";   
+const char* password = "passward";   
 
-String chatId = "6355533943";
-String BOTtoken = "7950442083:AAFqF0UZ7RVLxljdOIW4qjNW_Mn9_1K-Ex8";
+String chatId = "your chatid";
+String BOTtoken = "Your BoTtoken";
 
 bool sendPhoto = false;
 
